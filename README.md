@@ -1,1 +1,1 @@
-just a simple project 3mf and gcode 3mf combiner, the exe is jus the python version edited to be an exe and the py version is just the python for the people that feel unsafe downloading an exe
+just a simple project 3mf and gcode 3mf combiner, the exe is jus the python version edited to be an exe and the py version is just the python for the people that feel unsafe downloading an exe, this also works as a 3mf simplifier for deleting unwanted images and making the name of it as it shows in a 3d printer, the same as the file name
